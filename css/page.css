@@ -59,9 +59,9 @@
 	.head{height: 90px;position:relative;padding: 0px 2.5%;width: 95%;}
 	.head ul{position:absolute;background:#242424;top: 70px;right:0px;z-index: 99999999;width: 40%;display: none;}
 	.classname{font-size: 20px;color: #fff;display: inline-block;}
-	.head .open{width: 25px;height: 25px;background: url(../images/icon-open.png) center center no-repeat;display: inline-block;float: right;margin: 20px 0px 0px 0px;background-size: contain;}
+	.head .open{width: 25px;height: 25px;background: url(../assets/icon-open.png) center center no-repeat;display: inline-block;float: right;margin: 20px 0px 0px 0px;background-size: contain;}
 	.header li{float: none;margin:0px 0px 0px 0px;text-align:center;width:100%;display: block;}
-	.head .open.close{background: url(../images/icon-close.png) center center no-repeat;}
+	.head .open.close{background: url(../assets/icon-close.png) center center no-repeat;}
 	.header li a{line-height: 60px;}
 	.header li:hover{background: #1b1b1b;}
 	.banner img{width:100%;}
