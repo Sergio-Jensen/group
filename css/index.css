@@ -82,8 +82,8 @@
 	#fullPage{background: #0f0f0f;}
 	#fullPage .swiper-container{/* margin: 90px 0px 0px 0px; */height:50vh;line-height:50vh;position: relative;top:-25vw;}
 	.Ban .icon{background:url(../images/icon-index2.png) center center no-repeat;width: 40px;height: 52px;background-size: 100%;margin-left: -20px;bottom:100px;}
-	#fullPage .swiper-container .swiper-button-prev{background: url(../images/icon-left.png) center center no-repeat;font-size: 0px;background-size: 60%;}
-    #fullPage .swiper-container .swiper-button-next{background: url(../images/icon-right.png) center center no-repeat;font-size: 0px;background-size: 60%;}
+	#fullPage .swiper-container .swiper-button-prev{background: url(../assets/icon-left.png) center center no-repeat;font-size: 0px;background-size: 60%;}
+    #fullPage .swiper-container .swiper-button-next{background: url(../assets/icon-right.png) center center no-repeat;font-size: 0px;background-size: 60%;}
     .copyright{font-size:10px;line-height: 30px;padding: 10px 0px 10px 0px;}
 	.footer{height:185px;position: fixed;bottom: 40px;z-index: 99999999999999;padding: 0px 0px 0px 0px;}
 	.footer ul{padding:40px 0px 20px 0px;}
