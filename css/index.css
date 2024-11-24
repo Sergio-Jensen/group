@@ -72,9 +72,9 @@
 	.header{height: 70px;padding: 0px 2.5%;width: 95%;line-height: 70px;position: absolute;top: 0px;z-index: 999999999999;}
 	.header ul{position:absolute;background:#242424;top: 70px;right:0px;z-index: 99999999;width: 40%;display: none;}
 	.classname{font-size: 20px;color: #fff;display: inline-block;}
-	.header .open{width: 25px;height: 25px;background: url(../images/icon-open.png) center center no-repeat;display: inline-block;float: right;margin: 20px 0px 0px 0px;background-size: contain;}
+	.header .open{width: 25px;height: 25px;background: url(../assets/icon-open.png) center center no-repeat;display: inline-block;float: right;margin: 20px 0px 0px 0px;background-size: contain;}
 	.header li{float: none;margin:0px 0px 0px 0px;text-align:center;width:100%;display: block;}
-	.header .open.close{background: url(../images/icon-close.png) center center no-repeat;}
+	.header .open.close{background: url(../assets/icon-close.png) center center no-repeat;}
 	.header li a{line-height: 60px;}
 	.header li:hover{background: #1b1b1b;}
 	#fullPage .banWord{width:100%;left: 0px;margin: 0px;transform: translateY(-60%);}
